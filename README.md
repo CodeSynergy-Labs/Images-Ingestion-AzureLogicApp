@@ -1,0 +1,1 @@
+# ecommerce-images-and-video-ingestion-workflow-using-azure-logic-apps
